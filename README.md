@@ -1,1 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/C_yrNUb3)
+# AI tool links
+
+* Gemini 2.5 Pro for how to go about solving the assignment: https://gemini.google.com/app/a1249eabe9a6fdd1
+* Gemini 2.5 Flash for syntax: https://gemini.google.com/app/a6b23079746bf5ff
