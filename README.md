@@ -5,3 +5,4 @@
 * Gemini 2.5 Pro for syntax: https://gemini.google.com/app/f3c6633cd5e2df3e
 * Gemini 2.5 Pro for doubts: https://gemini.google.com/app/37d8ca5d845cd662
 * Gemini 2.5 Pro for syntax - fresh link, because older ones gave little hallucinating results: https://gemini.google.com/app/16eec193e8d82123
+
